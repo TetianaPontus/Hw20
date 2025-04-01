@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #A9A9A9;
+}
+h1 {
+  font-size: 170%;
+  text-decoration: underline;
+  color: saddlebrown;
+  font-family: Helvetica, sans-serif;
+}
+img{
+  height: 350px;
+  width: 300px;
+  border-radius: 10px;
+}
